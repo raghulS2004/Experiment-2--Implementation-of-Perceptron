@@ -116,4 +116,4 @@ plt.show()
 ![exp 2 1](https://user-images.githubusercontent.com/122069938/232672939-3f05cfc9-03ca-4aea-ac70-0cde544e0792.png)
 
 ## Result
-
+Thus a perceptron for classification is implemented using python
