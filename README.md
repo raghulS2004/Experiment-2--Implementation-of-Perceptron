@@ -1,5 +1,5 @@
 # Experiment-2--Implementation-of-Perceptron
-##AIM:
+AIM:
 
 To implement a perceptron for classification using Python
 
@@ -113,9 +113,20 @@ plt.ylabel('Errors')
 plt.show()
 ```
 ## Output
-![exp 2](https://user-images.githubusercontent.com/122069938/232672786-9943f892-1616-4d5b-a89b-3333a6547402.png)
+![R1](https://user-images.githubusercontent.com/119091638/231529484-db83c888-ab55-45ad-8d0f-58975f113b40.png)
 
-![exp 2 1](https://user-images.githubusercontent.com/122069938/232672939-3f05cfc9-03ca-4aea-ac70-0cde544e0792.png)
+![R2](https://user-images.githubusercontent.com/119091638/231529520-aa815282-6bf5-41b3-ac4e-5db2cdc0e596.png)
+
+![R3](https://user-images.githubusercontent.com/119091638/231529546-d502a8b5-e735-4ae6-af72-f55d672347d4.png)
+
+![R6](https://user-images.githubusercontent.com/119091638/231529667-5fa6a3e3-ae51-4978-9752-7dbd51c5068d.png)
+
+![R4](https://user-images.githubusercontent.com/119091638/231529687-e2f68edd-a2b7-40e8-845c-e17d1397e51c.png)
+
+![R5](https://user-images.githubusercontent.com/119091638/231529732-d0f53d63-61a0-4dad-8997-8aca430fbc01.png)
+
+
+
 
 ## Result
 Thus a perceptron for classification is implemented using python
